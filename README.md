@@ -1,2 +1,3 @@
-# protractor-starter
-Protractor end to end testing boilerplate
+# Protractor-TypeScript Automation Starter
+
+Protractor-TypeScrip Automation Starter is a project combining freatures of Protractor and TypeScript to make a fully featured starting up point for Protractor end-to-end testing for AngularJS applications. End-to-end tests are brittle and using plain JavaScript makes it even harder to make it more resilient. Strong typing, compile time error checking, great intellisense in certain IDEs (and some IDEs with extensions) make your code more resilient for JavaScript related issues. On top of that, Protractor-TypeScrip Automation Starter provides builtin helper libraries, plugins integrated directly in to the Starter project, Dashboards that display test results in real-time makes it easy to get up and running with Protractor End-to-End testing with less amount of ceremony. 
