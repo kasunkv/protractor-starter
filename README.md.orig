@@ -1,7 +1,11 @@
+<<<<<<< HEAD
 # Protractor-TypeScript Automation Starter
-# protractor-starter [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f44bb3f03787447d9ba45a763d747764)](https://www.codacy.com/app/charithsoori/protractor-starter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99xt/protractor-starter&amp;utm_campaign=Badge_Grade)
 
 Protractor-TypeScrip Automation Starter is a project combining freatures of Protractor and TypeScript to make a fully featured starting up point for Protractor end-to-end testing for AngularJS applications. End-to-end tests are brittle and using plain JavaScript makes it even harder to make it more resilient. Strong typing, compile time error checking, great intellisense in certain IDEs (and some IDEs with extensions) make your code more resilient for JavaScript related issues. On top of that, Protractor-TypeScrip Automation Starter provides builtin helper libraries, plugins integrated directly in to the Starter project, Dashboards that display test results in real-time makes it easy to get up and running with Protractor End-to-End testing with less amount of ceremony. 
+=======
+# protractor-starter [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f44bb3f03787447d9ba45a763d747764)](https://www.codacy.com/app/charithsoori/protractor-starter?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99xt/protractor-starter&amp;utm_campaign=Badge_Grade)
+Protractor end to end testing boilerplate
+
 ##Description
 
  Protractor starting kit for writing end-to-end tests for angular.js applications. 
@@ -30,3 +34,4 @@ Pretest
 - <code> npm run compile </code> 
 Test
 - <code>npm test </code> 
+>>>>>>> master
